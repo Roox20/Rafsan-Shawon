@@ -10,7 +10,7 @@
   "banMsg": false,
   "adminOnlyMsg": false,
   "BOTNAME": "SHAON PROJECT",
-  "PREFIX": "/",
+  "PREFIX": ".",
   "OPERATOR": [
     "100004197768294",
     ""
